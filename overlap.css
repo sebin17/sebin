@@ -1,0 +1,24 @@
+div{
+    width: 150px;
+    height: 150px;
+}
+.div1{
+    background-color: blue;
+    position: relative;
+    left: 100px;
+    top: 150;
+}
+.div2{
+    background-color: rgb(0, 255, 170);
+    position: absolute;
+    left: 150px;
+    top: 100px;
+
+}
+.div3{
+    background-color: rgb(185, 187, 204);
+    position: absolute;
+    left: 150px;
+    top: 100px;
+}
+
